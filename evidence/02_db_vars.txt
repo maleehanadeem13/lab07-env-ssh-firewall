@@ -1,0 +1,3 @@
+DB_PASSWORD=labpass123
+DB_USER=labuser
+DB_URL=postgres://db.example.local:5432/mydb

@@ -1,0 +1,4 @@
+# Lab 7 persistent DB variables
+export DB_URL="postgres://db.example.local:5432/mydb"
+export DB_USER="labuser"
+export DB_PASSWORD="labpass123"
